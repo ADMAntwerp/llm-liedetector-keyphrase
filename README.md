@@ -8,7 +8,7 @@ This is a paper repository that was used to explore how LLM truth directions gen
 
 Clone the repo:
 
-`git clone ...`
+`git clone git@github.com:ADMAntwerp/llm-liedetector-keyphrase.git`
 
 Make virtual environment and install requirements:
 
