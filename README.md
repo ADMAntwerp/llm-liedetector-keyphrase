@@ -1,6 +1,6 @@
 # Exploring the generalization of LLM truth directions on conversational formats.:
 
-This is a paper repository that was used to explore how LLM truth directions generalize across various conversational formats. 
+This is the code repository corresponding to this paper: https://arxiv.org/abs/2505.09807. 
 
 ![](figures/Llama3-8b-instruct/keyphrase_pca.png)
 
