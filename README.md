@@ -1,4 +1,4 @@
-# Exploring the generalization of LLM truth directions on conversational formats.:
+# Exploring the generalization of LLM truth directions on conversational formats:
 
 This is the code repository corresponding to this paper: https://arxiv.org/abs/2505.09807. 
 
